@@ -1,0 +1,61 @@
+On cpu
+
+
+
+signature-deg = 4, signal-dim = 4 
+ Starting Sig...
+
+time taken for signature = 0.21301627159118652 secs 
+ Starting Log_sig...
+
+time taken for log-signature = 1.0019986629486084 secs 
+ 
+__Done__ 
+
+
+
+signature-deg = 5, signal-dim = 4 
+ 
+Starting Sig...
+
+time taken for signature = 0.32000041007995605 secs 
+ 
+Starting Log_sig...
+
+time taken for log-signature = 24.36857008934021 secs 
+ 
+__Done__ 
+
+
+ 
+ 
+
+On cuda
+
+
+
+signature-deg = 4, signal-dim = 4 
+ 
+Starting Sig...
+
+time taken for signature = 0.5739927291870117 secs 
+ 
+Starting Log_sig...
+
+time taken for log-signature = 1.1759848594665527 secs 
+ 
+__Done__ 
+
+
+
+signature-deg = 5, signal-dim = 4 
+ 
+Starting Sig...
+
+time taken for signature = 0.8249895572662354 secs 
+ 
+Starting Log_sig...
+
+time taken for log-signature = 25.039681673049927 secs 
+
+__Done__ 
