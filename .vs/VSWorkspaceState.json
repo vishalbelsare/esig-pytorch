@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\log_signatures_and_pytorch",
-    "\\log_signatures_and_pytorch\\Pictures"
+    "\\log_signatures_and_pytorch\\Stuff",
+    "\\log_signatures_and_pytorch\\Stuff\\esig_numpy_pytorch"
   ],
-  "SelectedNode": "\\log_signatures_and_pytorch\\Log Signatures directly via BCH.docx",
+  "SelectedNode": "\\log_signatures_and_pytorch\\Stuff\\esig_numpy_pytorch\\tosig_pytorch.py",
   "PreviewInSolutionExplorer": false
 }
