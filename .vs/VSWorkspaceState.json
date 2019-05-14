@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\log_signatures_and_pytorch",
-    "\\log_signatures_and_pytorch\\Stuff",
-    "\\log_signatures_and_pytorch\\Stuff\\esig_numpy_pytorch"
+    "\\LogSigPytorch"
   ],
-  "SelectedNode": "\\log_signatures_and_pytorch\\Stuff\\esig_numpy_pytorch\\tosig_pytorch.py",
+  "SelectedNode": "\\LogSigPytorch\\free-Lie-algebra-pictures",
   "PreviewInSolutionExplorer": false
 }
