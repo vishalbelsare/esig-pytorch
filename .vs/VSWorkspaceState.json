@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LogSigPytorch"
+    "\\LogSigPytorch",
+    "\\LogSigPytorch\\Deep-Learning"
   ],
-  "SelectedNode": "\\LogSigPytorch\\free-Lie-algebra-pictures",
+  "SelectedNode": "\\LogSigPytorch\\Deep-Learning\\Esig_NN_Pytorch_Seq_MNIST.py",
   "PreviewInSolutionExplorer": false
 }
